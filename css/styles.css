@@ -1,0 +1,67 @@
+body{
+    font-family: 'Montserrat';
+    width: 100%;
+    background-image: url(pixel-background.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: center;
+}
+#title {
+    color: #fff;
+}
+.collapse{
+    padding-left: 30rem;
+}
+.sasi-img{
+    width: 80%;
+    border-radius: 50%;
+}
+h1{
+    color: #fff;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+p{
+    color: #fff;
+}
+.container-fluid {
+    padding: 3% 15%;
+}
+.navbar-brand {
+    font-family: 'PT Serif', serif;
+    color: #fff;
+}
+.navbar {
+    color: #BFACE2;
+    padding-bottom: 4.5rem;
+}
+/*Skills*/
+#skills{
+    text-align: center;
+    padding: 3% 15%;
+    color: #fff;
+}
+.sk{
+    font-family: 'Oswald', sans-serif;
+}
+.skill-item{
+    padding: 3% 15%;
+    text-align: center;
+}
+.icon {
+    color: #E8D2A6;
+}
+/*certificates*/
+
+#certificates {
+    text-align: center;
+    color: #fff;
+}
+.cerificate-img{
+    width: 50%;
+}
+/*Education*/
+.bottom-container{
+    text-align: center;
+    padding: 3rem 5rem;
+}
