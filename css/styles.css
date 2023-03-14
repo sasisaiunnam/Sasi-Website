@@ -9,6 +9,10 @@ body{
 #title {
     color: #fff;
 }
+@media (max-width: 1028px){
+    #title {
+        text-align: center;
+    }
 .collapse{
     padding-left: 30rem;
 }
