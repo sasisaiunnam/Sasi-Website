@@ -12,6 +12,7 @@ body{
 @media (max-width: 1028px){
     #title {
         text-align: center;
+        color: #fff;
     }
 .collapse{
     padding-left: 30rem;
